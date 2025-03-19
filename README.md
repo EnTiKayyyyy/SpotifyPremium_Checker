@@ -1,1 +1,1 @@
-Spotify Premium Checker With Json Cookies Using Selenium
+Spotify Premium Checker Using Selenium
