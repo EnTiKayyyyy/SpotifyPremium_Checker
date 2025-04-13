@@ -13,10 +13,10 @@ from telegram.error import NetworkError, TelegramError
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Thông tin cấu hình
-EMAIL_ADDRESS = "ytpre7101@gmail.com"
-EMAIL_PASSWORD = "xkoy fbff cuua vdwc"
-IMAP_SERVER = "imap.gmail.com"
-TELEGRAM_TOKEN = "8021190276:AAEjPr7i68GEsgbl5_OBNZGX1_tHf0IAIlg"
+EMAIL_ADDRESS = ""
+EMAIL_PASSWORD = ""
+IMAP_SERVER = ""
+TELEGRAM_TOKEN = ""
 
 
 def find_latest_netflix_email():
