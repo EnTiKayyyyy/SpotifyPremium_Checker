@@ -11,11 +11,11 @@ from telegram.error import NetworkError, TelegramError
 # Thiết lập logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 # Thông tin cấu hình
-EMAIL_ADDRESS = "banamahoot@gmail.com"  # Thay bằng email của bạn
-EMAIL_PASSWORD = "lptk mngb htte lwkz"    # Thay bằng mật khẩu ứng dụng
+EMAIL_ADDRESS = ""  # Thay bằng email của bạn
+EMAIL_PASSWORD = ""    # Thay bằng mật khẩu ứng dụng
 IMAP_SERVER = "imap.gmail.com"
-TELEGRAM_TOKEN = "7894223540:AAGFGsXnrc8ZnarRi3Db3SRakdqrVcaB-64"  # Thay bằng token từ BotFather
-CHAT_ID = "1291042032"       # Thay bằng ID Telegram của bạn
+TELEGRAM_TOKEN = ""  # Thay bằng token từ BotFather
+CHAT_ID = ""       # Thay bằng ID Telegram của bạn
 
 
 def find_latest_openai_email():
